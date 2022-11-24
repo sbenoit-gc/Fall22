@@ -5,6 +5,14 @@
 A github repository for the in class demonstrations.<br><br> 
 Some audio assets from opengameart.org <br> https://opengameart.org <br>
 
+Notes:
+1 - hdri images from polyhaven.com
+2 - audio from bensound
+
+Bugs
+- re UE bug, audio does not play on ios device's builtin speakers, but does play on headsets
+- re UE bug, (if implemented) background blur in HUD does not work on most Android devices
+
 ## Usage
 Clone, or download the zip, to a local directory. Open in Unreal Engine 4.27 or newer
 
